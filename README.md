@@ -1,3 +1,10 @@
+Note: 
+
+Sorry forgot to add balance display feature but it can be easily added through following command:
+
+web3.eth.getBalance
+
+
 #### Launch the demo using Docker Compose:
 
 ```bash
